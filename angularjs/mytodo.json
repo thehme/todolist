@@ -1,0 +1,4 @@
+[{ "action": "Finish Angular Book", "done": false },
+ { "action": "Go Running", "done": false },
+ { "action": "Buy Arduino", "done": true },
+ { "action": "Call out of work", "done": false }]
